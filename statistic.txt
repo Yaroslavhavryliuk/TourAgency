@@ -1,0 +1,247 @@
+Money statistic:
+Tours selled: 20
+Total receipts: 34100.0$
+Average tour price: 1705.0$
+Cheapest Tour: 2,    price: 200.0,    hotel: Cisar,    city: Lviv,    country: Ukraine,    people: 2,    days: 2,    meals number: 1,    transport: train
+Cheapest Tour: 14,    price: 200.0,    hotel: Cisar,    city: Lviv,    country: Ukraine,    people: 2,    days: 2,    meals number: 1,    transport: train
+
+Most expensive Tour: 8,    price: 4800.0,    hotel: Palm Beach,    city: Los Angeles,    country: USA,    people: 4,    days: 8,    meals number: 2,    transport: plane
+
+
+Transport statistic:
+Tourists used 3 types of transport
+bus: 4 tours
+plane: 14 tours
+train: 2 tours
+Most popular tranports: plane.  It was used 14 times
+Less popular tranports: train.  It was used 2 times
+
+
+Food statistic:
+Tourists used 3 types of food menu
+1: 3 tours
+2: 7 tours
+3: 10 tours
+Most popular food menu: 3.  It was used 10 times
+Less popular food menu: 1.  It was used 3 times
+
+
+Tours duration statistic:
+Average tour duration : 5.95 days
+Shortest Tour: 2,    duration: 2 days,    price: 200.0,    hotel: Cisar,    city: Lviv,    country: Ukraine,    people: 2,    meals number: 1,    transport: train
+Shortest Tour: 3,    duration: 2 days,    price: 900.0,    hotel: Freedom,    city: New York,    country: USA,    people: 1,    meals number: 1,    transport: plane
+Shortest Tour: 13,    duration: 2 days,    price: 450.0,    hotel: La France,    city: Paris,    country: France,    people: 2,    meals number: 2,    transport: plane
+Shortest Tour: 14,    duration: 2 days,    price: 200.0,    hotel: Cisar,    city: Lviv,    country: Ukraine,    people: 2,    meals number: 1,    transport: train
+
+Longest Tour: 18,    duration: 12 days,    price: 3500.0,    hotel: Aqua Blue,    city: Sharm el Sheikh,    country: Egypt,    people: 5,    meals number: 3,    transport: plane
+
+
+Tourist group size statistic:
+1: 2 tours
+2: 8 tours
+3: 4 tours
+4: 5 tours
+5: 1 tours
+Most common size of tourist group: 2.  It was used 8 times
+Less common size of tourist group: 5.  It was used 1 times
+
+Average size of tourist group : 3 people
+Smallest tourist group in: 3,    tourists: 1,    price: 900.0,    hotel: Freedom,    city: New York,    country: USA,    days: 2,    meals number: 1,    transport: plane
+Smallest tourist group in: 10,    tourists: 1,    price: 1000.0,    hotel: Relax,    city: Pattaya,    country: Thailand,    days: 5,    meals number: 2,    transport: plane
+
+Biggest tourist group in: 18,    tourists: 5,    price: 3500.0,    hotel: Aqua Blue,    city: Sharm el Sheikh,    country: Egypt,    days: 12,    meals number: 3,    transport: plane
+
+
+Tourist's age statistic:
+Average age of tourist : 25 years
+Youngest tourist's age: 2,    name: Josha Jedai,    nationality: jewish,    tour: 7,    hotel: Carnaval,    city: Rio de Janeiro,    country: Brazil
+
+Oldest tourist's age: 62,    name: Fridrih Koh,    nationality: german,    tour: 20,    hotel: CocoNut,    city: Phuket,    country: Thailand
+Oldest tourist's age: 62,    name: Laura Koh,    nationality: german,    tour: 20,    hotel: CocoNut,    city: Phuket,    country: Thailand
+
+
+Tourist's nationality statistic:
+Tourists of 12 nations bought tours
+
+arabic: 1 tourists
+argentinian: 1 tourists
+british: 4 tourists
+bulgarian: 4 tourists
+czech: 5 tourists
+french: 2 tourists
+german: 2 tourists
+jewish: 1 tourists
+polish: 3 tourists
+turkish: 1 tourists
+ukrainian: 28 tourists
+usa: 3 tourists
+
+Most tourists: ukrainian.  There were 28 tourists
+Less tourists: arabic, argentinian, jewish, turkish.  There were 1 tourists
+
+
+Hotels statistic:
+Tourists lived in 14 different hotels
+
+Aqua Blue: 3 tours
+Carnaval: 1 tours
+Cisar: 2 tours
+CocoNut: 1 tours
+Croissant: 1 tours
+Freedom: 1 tours
+La France: 2 tours
+Palm Beach: 1 tours
+Park Inn: 2 tours
+Relax: 1 tours
+Royal Hotel: 1 tours
+Sphinx: 1 tours
+Sunrise Diamond: 2 tours
+Sunset: 1 tours
+
+Most popular hotel: Aqua Blue.  Sold 3 tours
+Less popular hotel: Carnaval, CocoNut, Croissant, Freedom, Palm Beach, Relax, Royal Hotel, Sphinx, Sunset.  Sold 1 tours
+
+
+Hotel's stars statistic:
+Tourists lived in hotels of 3 different comfort levels
+
+3 stars: 4 tours
+4 stars: 5 tours
+5 stars: 11 tours
+
+Most popular comfort level: 5 stars.  Sold 11 tours
+Less popular comfort level: 3 stars.  Sold 4 tours
+
+
+Hotel's size statistic:
+Average size of hotel : 144 rooms
+Smallest hotel sold: 50 rooms,    name: Relax,    stars: 3,    city: Pattaya,    country: Thailand
+
+Biggest hotel sold: 250 rooms,    name: Park Inn,    stars: 5,    city: Kyiv,    country: Ukraine
+Biggest hotel sold: 250 rooms,    name: Park Inn,    stars: 5,    city: Kyiv,    country: Ukraine
+
+
+Cities statistic:
+Tourists visited 12 different cities
+
+Bentota: 1 tours
+Kyiv: 2 tours
+Los Angeles: 1 tours
+Luxor: 1 tours
+Lviv: 2 tours
+New York: 1 tours
+Paris: 3 tours
+Pattaya: 1 tours
+Phuket: 1 tours
+Poznan: 1 tours
+Rio de Janeiro: 1 tours
+Sharm el Sheikh: 5 tours
+
+Most popular city: Sharm el Sheikh.  Sold 5 tours
+Less popular city: Bentota, Los Angeles, Luxor, New York, Pattaya, Phuket, Poznan, Rio de Janeiro.  Sold 1 tours
+
+
+City's population statistic:
+Average population of city : 1788850
+Smallest city visited: 37000 people,    name: Bentota,    country: Shri-Lanka
+
+Biggest city visited: 8468000 people,    name: New York,    country: USA
+
+
+City's airports statistic:
+0: 1 tours
+1: 10 tours
+2: 6 tours
+3: 3 tours
+
+Most popular cities with : 1 airports.  Sold 10 tours
+Less popular cities with : 0 airports.  Sold 1 tours
+
+
+City's climat statistic:
+Tourists visited 6 cities with different climat
+
+equatorial: 1 tours
+subequatorial: 3 tours
+subtropical: 1 tours
+temperate continental: 5 tours
+temperate marinic: 4 tours
+tropical desert: 6 tours
+
+Most popular climat: tropical desert.  Sold 6 tours
+Less popular climat: equatorial, subtropical.  Sold 1 tours
+
+
+Countries statistic:
+Tourists visited 8 different countries
+
+Brazil: 1 tours
+Egypt: 6 tours
+France: 3 tours
+Poland: 1 tours
+Shri-Lanka: 1 tours
+Thailand: 2 tours
+USA: 2 tours
+Ukraine: 4 tours
+
+Most popular country: Egypt.  Sold 6 tours
+Less popular country: Brazil, Poland, Shri-Lanka.  Sold 1 tours
+
+
+Regions statistic:
+Tourists visited 5 different regions
+
+Africa: 6 tours
+Asia: 3 tours
+Europe: 8 tours
+North America: 2 tours
+South America: 1 tours
+
+Most popular region: Europe.  Sold 8 tours
+Less popular region: South America.  Sold 1 tours
+
+
+Languages statistic:
+Tourists visited 8 countries with different languages
+
+arabic: 6 tours
+english: 2 tours
+franshe: 3 tours
+polish: 1 tours
+portugiese: 1 tours
+sinhala: 1 tours
+thai: 2 tours
+ukrainian: 4 tours
+
+Most popular countries with language: arabic.  Sold 6 tours
+Less popular countries with language: polish, portugiese, sinhala.  Sold 1 tours
+
+
+Currencies statistic:
+Tourists visited 8 countries with different currencies
+
+bat: 2 tours
+dollar USA: 2 tours
+euro: 3 tours
+hryvnia: 4 tours
+pound EGY: 6 tours
+real BRA: 1 tours
+rupia LKA: 1 tours
+zloty: 1 tours
+
+Most popular countries with currency: pound EGY.  Sold 6 tours
+Less popular countries with currency: real BRA, rupia LKA, zloty.  Sold 1 tours
+
+
+Religions statistic:
+Tourists visited 6 countries with different religions
+
+buddism: 2 tours
+catholic: 5 tours
+induism: 1 tours
+islam: 6 tours
+orthodox: 4 tours
+protestant: 2 tours
+
+Most popular countries with religion: islam.  Sold 6 tours
+Less popular countries with religion: induism.  Sold 1 tours
